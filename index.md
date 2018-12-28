@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<body style="background-color:Black;">
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cdn.discordapp.com/attachments/460619476040155147/528013873404444672/GREDNII_STUDIOS.png" alt="" width="800" height="343" /><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cdn.discordapp.com/attachments/430177045692153857/528017761444823070/pjfnaf1r.png" alt="" width="1200" height="800" /></p>
+<p style="text-align: center;"><span style="text-align: center;color: #ffffff;">GameJolt page: https://gamejolt.com/games/FNAFR/378506</span></p>
+<h4 style="text-align: center;"><span style="color: #ffffff;"> In affiliation with LDexus and LDEXUS STUDIOS</span></h4>
+<h3><span style="color: #ffffff;"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://cdn.discordapp.com/attachments/430177045692153857/528019337332785152/Untitled_drawing.png" alt="" width="127" height="95" /></span></p>
 
-You can use the [editor on GitHub](https://github.com/FNAFREMADE/FNAFREMADE.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FNAFREMADE/FNAFREMADE.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p> </p>
+</body>
+</html>
